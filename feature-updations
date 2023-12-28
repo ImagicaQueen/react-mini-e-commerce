@@ -1,0 +1,17 @@
+=====if category is already exits with the same name so you can't save or create a new cateogry
+
+=====after delete the category should call get api for get category
+
+=====make a popup for delete category or proudct
+
+=====need to shift api folder
+
+=====should redirect if category is created successfully
+
+=====need to do api success response handling
+
+need to create a Link component
+
+=====need to fix sidebar
+
+need to create a title or heading component
